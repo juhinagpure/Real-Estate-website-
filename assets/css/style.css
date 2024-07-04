@@ -312,7 +312,7 @@ button, a { transition: var(--transition); }
 .hero {
   background: var(--cultured-2);
   padding-block: var(--section-padding);
-  margin-top: -50px;
+  margin-top: 0px;
 }
 .hero-content { margin-bottom: 60px; }
 .hero-subtitle {
