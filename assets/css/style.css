@@ -1,6 +1,6 @@
 .main{
-margin-left: 70px;
 margin-top: 20px;
+margin-left: 70px;
 font-size: 40px;
 font-weight: bold;
 }
@@ -310,7 +310,7 @@ button, a { transition: var(--transition); }
 .hero {
   background: var(--cultured-2);
   padding-block: var(--section-padding);
-  /* margin-top: -0px; */
+  margin-top: -50px;
 }
 .hero-content { margin-bottom: 60px; }
 .hero-subtitle {
